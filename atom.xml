@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xaaoi.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-08T10:27:06.845Z</updated>
+    <title>嘎嘎嘎嘎</title>
+    <updated>2020-03-08T10:27:48.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xaaoi.github.io"/>
     <link rel="self" href="https://xaaoi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>嘎嘎嘎</subtitle>
     <logo>https://xaaoi.github.io/images/avatar.png</logo>
     <icon>https://xaaoi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 嘎嘎嘎嘎</rights>
     <entry>
         <title type="html"><![CDATA[hallo world]]></title>
         <id>https://xaaoi.github.io/post/hallo-world/</id>
